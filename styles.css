@@ -170,6 +170,7 @@ body{
     border-right: transparent;
     border-top-left-radius: 20px ;
     border-bottom-left-radius: 20px;
+    height: 46px;
     outline: none;
 
 }
